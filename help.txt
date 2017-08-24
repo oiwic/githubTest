@@ -7,3 +7,5 @@ git status //lookup status
 git diff HEAD //lookup changes
 git checkout -- filename//discard changes of filename
 git reset HEAD filename //discard changes int the cached 
+git remote add origin git@github.com:michaelliao/learngit.git
+git push -u origin master
