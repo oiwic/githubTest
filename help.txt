@@ -7,5 +7,9 @@ git status //lookup status
 git diff HEAD //lookup changes
 git checkout -- filename//discard changes of filename
 git reset HEAD filename //discard changes int the cached 
-git remote add origin git@github.com:michaelliao/learngit.git
+git remote add origin git@github.com:oiwic/learngit.git
 git push -u origin master
+git clone git@github.com:oiwic/githubTest.git
+git branch dev //create new branch named dev
+git checkout -b dev //create new branch named dev and switch to dev
+git checkout dev // switch to dev branch
