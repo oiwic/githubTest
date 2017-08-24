@@ -4,3 +4,4 @@ git reset --hard HEAD~1
 git reflog
 git log
 git status
+git diff HEAD
