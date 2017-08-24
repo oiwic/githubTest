@@ -1,9 +1,9 @@
-git add filename
-git commit -m commitdescribe
-git reset --hard HEAD~1
-git reflog
-git log
-git status
-git diff HEAD
-git checkout -- filename
-git reset HEAD filename
+git add filename // add a file to cached
+git commit -m commitname //commit modifed
+git reset --hard HEAD~1 //revert to old version
+git reflog //lookup reference log
+git log	   //lookup commit log
+git status //lookup status
+git diff HEAD //lookup changes
+git checkout -- filename//discard changes of filename
+git reset HEAD filename //discard changes int the cached 
