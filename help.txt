@@ -13,3 +13,4 @@ git clone git@github.com:oiwic/githubTest.git
 git branch dev //create new branch named dev
 git checkout -b dev //create new branch named dev and switch to dev
 git checkout dev // switch to dev branch
+git branch // lookup all branch
