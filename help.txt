@@ -5,3 +5,5 @@ git reflog
 git log
 git status
 git diff HEAD
+git checkout -- filename
+git reset HEAD filename
