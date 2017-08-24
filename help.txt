@@ -1,0 +1,6 @@
+git add filename
+git commit -m commitdescribe
+git reset --hard HEAD~1
+git reflog
+git log
+git status
