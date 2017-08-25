@@ -24,3 +24,4 @@ git checkout -b beta origin/beta // get beta version to local
 git push origin beta //push local beta version to cloud
 git pull //Aquire latest version from cloud
 git tag v1.0 //give branch a tag
+git log --pretty=oneline --abbrev-commit //lookup commit number
