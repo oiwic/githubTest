@@ -32,3 +32,4 @@ git tag -d v0.1 //delete local tag
 git push origin v1.0 //push tag to cloud
 git push origin --tags //push all tags
 git push origin :refs/tags/v1.0 //delete remote tags
+git push origin :branch-name //delete remote branch
