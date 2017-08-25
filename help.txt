@@ -28,3 +28,7 @@ git log --pretty=oneline --abbrev-commit //lookup commit number
 git show tag // show tag information
 git tag v0.9 4742fa5 //tag specially version
 git tag -s v1.1 -m "crete a private tag"
+git tag -d v0.1 //delete local tag
+git push origin v1.0 //push tag to cloud
+git push origin --tags //push all tags
+git push origin :refs/tags/v1.0 //delete remote tags
