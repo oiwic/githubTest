@@ -20,4 +20,5 @@ git slash // hide the change after checkpoint
 git slash pop //pop out slash content
 git remote
 git remote -v
-git checkout -b beta origin/beta
+git checkout -b beta origin/beta // get beta version to local
+git push origin beta //push local beta version to cloud
