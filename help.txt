@@ -17,3 +17,7 @@ git branch // lookup all branch
 git merge beta //merge beta branch to HEAD branch
 git branch -d beta //delete beta branch
 git slash // hide the change after checkpoint
+git slash pop //pop out slash content
+git remote
+git remote -v
+git checkout -b beta origin/beta
