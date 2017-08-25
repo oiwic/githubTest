@@ -25,3 +25,6 @@ git push origin beta //push local beta version to cloud
 git pull //Aquire latest version from cloud
 git tag v1.0 //give branch a tag
 git log --pretty=oneline --abbrev-commit //lookup commit number
+git show tag // show tag information
+git tag v0.9 4742fa5 //tag specially version
+git tag -s v1.1 -m "crete a private tag"
