@@ -16,3 +16,4 @@ git checkout dev // switch to dev branch
 git branch // lookup all branch
 git merge beta //merge beta branch to HEAD branch
 git branch -d beta //delete beta branch
+git slash // hide the change after checkpoint
