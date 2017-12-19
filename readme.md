@@ -35,7 +35,7 @@ MD学习手册
 [para1]: baidu.com "para1"
 [para2]: baidu.com "para2"
 add([para1],[para2])<br>
-[github 徽章介绍]:(http://www.cocoachina.com/programmer/20170512/19256.html)
+[github徽章介绍](http://www.cocoachina.com/programmer/20170512/19256.html)
 
 # 图片超链接
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
